@@ -9,7 +9,7 @@ import os
 pygame.mixer.init()
 angenommen = False
 # Datei-Pfade
-klingelton_path = "john_pork_is_calling.mp3
+klingelton_path = "john_pork_is_calling.mp3"
 anruf_sound_path = "answer.mp3"  # Ersetze durch den Pfad des Sounds nach Annahme
 bild_path = "jpcallintypavibs.jpeg"  # Bild von John Pork
 icon_path = "photoicon.png"  # Icon für den Anruf
